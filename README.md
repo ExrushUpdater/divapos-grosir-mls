@@ -31,7 +31,7 @@ Misalnya Anda adalah penjual baju. Anda membeli baju 1 lusin dengan harga Rp. 1.
   
 ## Download
 
-Anda bisa mendownload gratis Aplikasi Kasir DIVAPOS GROSIR MLS
+Anda bisa mendownload gratis disini :
 
 [Download disini](https://divapos.exrush.com/release/update/divapos-grosir-mls)
 
